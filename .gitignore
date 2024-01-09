@@ -1,0 +1,5 @@
+# Ignore the transcript txt 
+.txt
+
+# macOS system files
+.DS_Store
