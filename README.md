@@ -1,6 +1,8 @@
 
 # Emulating Speech Patterns through Machine Learning
 
+Project Webpage: https://gilarellano.github.io/LSTM_SpeechEmulation_Chelsea/
+
 ## Project Description
 This project explores the possibilities of using artificial intelligence (AI) to mimic human speech patterns. We utilized machine learning models to generate text that emulates the speech patterns of a specific individual, and then converted that text to speech using an AI voice imitation software. The primary data source for this project was the video transcripts from Chelsea, a YouTuber who creates educational content about statistics and machine learning.
 
